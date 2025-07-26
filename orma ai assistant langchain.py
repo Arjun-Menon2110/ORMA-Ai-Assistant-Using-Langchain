@@ -10,7 +10,7 @@ import threading
 import time
 
 # Configuration
-os.environ["OPENROUTER_API_KEY"] = "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"
+os.environ["OPENROUTER_API_KEY"] = "YOUR API KEY HERE"
 
 class VoiceEnabledAIAssistant:
     def __init__(self):
