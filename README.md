@@ -33,5 +33,6 @@
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/orma-ai-assistant.git
-cd orma-ai-assistant
+git clone
+https://github.com/Arjun-Menon2110/ORMA-Ai-Assistant-Using-Langchain
+cd ORMA-Ai-Assistant-Using-Langchain
